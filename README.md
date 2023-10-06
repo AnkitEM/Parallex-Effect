@@ -1,2 +1,4 @@
 # Parallex-Effect
-Implementing parallec effect
+Implementing parallex effect
+
+Active Link : https://ankitem.github.io/Parallex-Effect/
